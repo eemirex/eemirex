@@ -1,6 +1,6 @@
-# Emmanuel Eemirex
+# Hi, I'm Emmanuel
 
-I build practical, reliable software systems—especially AI-enabled products, multi-tenant backends, and workflow tools where security, observability, and clear operational boundaries matter.
+I build practical, reliable software systems, especially AI-enabled products, multi-tenant backends, and workflow tools where security, observability, and clear operational boundaries matter.
 
 I care about turning an interesting product idea into something engineers and users can actually inspect: explicit state, controlled integrations, testable failure handling, and honest documentation about what is live, what is a demo, and what comes next.
 
