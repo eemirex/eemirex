@@ -1,4 +1,4 @@
-# Emmanuel Emirex
+# Emmanuel Eemirex
 
 I build practical, reliable software systems—especially AI-enabled products, multi-tenant backends, and workflow tools where security, observability, and clear operational boundaries matter.
 
