@@ -15,6 +15,7 @@ I care about turning an interesting product idea into something engineers and us
 
 | Project | What it demonstrates |
 | --- | --- |
+| [HomeServe OS](https://github.com/eemirex/homeserve-os) · [Live preview](https://homeserve-os.netlify.app/) | Home-service operations demo covering leads, dispatch, jobs, payments, and customer lifecycle automation, with a Next.js interface, NestJS/Prisma backend foundation, PostgreSQL domain model, Docker, and CI. |
 | [Dynamis Relay](https://github.com/eemirex/dynamis-relay) | AI-assisted customer-support architecture with inbox/outbox workflows, idempotency, retries, human approval, and tenant-aware data boundaries. |
 | [Dynamis Signal](https://github.com/eemirex/dynamis-signal) | AI-native CRM concept with protected model routes, grounded drafting, multi-tenant data design, signed webhooks, and a public interactive demo. |
 | [Dynamis Flow](https://github.com/eemirex/dynamis-flow) | Multi-tenant project operations platform with authentication, authorization, API design, realtime foundations, rate limiting, Docker, and CI. |
