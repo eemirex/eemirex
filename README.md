@@ -1,4 +1,4 @@
-# Hi, I'm Emmanuel
+# Yooo!, I'm Emmanuel
 
 I build practical, reliable software systems, especially AI-enabled products, multi-tenant backends, and workflow tools where security, observability, and clear operational boundaries matter.
 
